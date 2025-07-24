@@ -1,1 +1,6 @@
 00
+  MessageBoxW(NULL, L"✅ ID matched with GitHub list!", L"Access Granted", MB_OK | MB_ICONINFORMATION);
+if text contain std::wstring correctID = L"07E2710_O41E772006";
+this then console beep
+
+
