@@ -18,3 +18,5 @@ ASRock        B450M Steel Legend  M80-D7018900045  -- due 400 taka
 
 
 
+Manufacturer                   Product     SerialNumber    Version
+Gigabyte Technology Co., Ltd.  H610M H V2  Default string  x.x   saikot
