@@ -15,8 +15,4 @@ Gigabyte Technology Co., Ltd.  B550M DS3H AC  Default string  x.x
 HP            83E2     PGVXV0D8JBSFMU  KBC Version 07.D2.00  --- saharir
 ASRock        B450M Steel Legend  M80-D7018900045  -- due 400 taka
 
-
-
-
-Manufacturer                   Product     SerialNumber    Version
 Gigabyte Technology Co., Ltd.  H610M H V2  Default string  x.x   saikot
