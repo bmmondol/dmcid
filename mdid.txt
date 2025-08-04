@@ -16,3 +16,4 @@ HP            83E2     PGVXV0D8JBSFMU  KBC Version 07.D2.00  --- saharir
 ASRock        B450M Steel Legend  M80-D7018900045  -- due 400 taka
 
 Gigabyte Technology Co., Ltd.  H610M H V2  Default string  x.x   saikot
+Micro-Star International Co., Ltd.  B450M-A PRO MAX (MS-7C52)  07C5213_NC1A164534  1.0  -- tirtho / sintits
