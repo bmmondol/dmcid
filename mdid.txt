@@ -21,14 +21,6 @@ Micro-Star International Co., Ltd.  B450M-A PRO MAX (MS-7C52)  07C5213_NC1A16453
 
 baseboard - Alias not found.  -- noyon gang
 
-shikari hasib server free
-MSI           H110M PRO-VH PLUS (MS-7A15)  K916797727    1.0
-
-
-C:\Users\ratul>wmic baseboard get product,Manufacturer,version,serialnumber
-Manufacturer  Product                      SerialNumber  Version
-MSI           H110M PRO-VH PLUS (MS-7A15)  K916797727    1.0
-
 
 
 
