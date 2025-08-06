@@ -28,3 +28,11 @@ MSI           H110M PRO-VH PLUS (MS-7A15)  K916797727    1.0
 C:\Users\ratul>wmic baseboard get product,Manufacturer,version,serialnumber
 Manufacturer  Product                      SerialNumber  Version
 MSI           H110M PRO-VH PLUS (MS-7A15)  K916797727    1.0
+
+
+
+
+Micro-Star International Co., Ltd.  B450M-A PRO MAX (MS-7C52)  07C5213_N41E632593  1.0
+
+
+abir vhai free
