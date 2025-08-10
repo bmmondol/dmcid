@@ -5,11 +5,11 @@ Micro-Star International Co., Ltd.  PRO B650M-P (MS-7E27)  07E2710_O41E772006  1
 
 
 1.0 -- m pc
-Gigabyte Technology Co., Ltd.  H610M H V2  Default string  x.x   saikot
+
 Micro-Star International Co., Ltd.  B450M-A PRO MAX (MS-7C52)  07C5213_NC1A164534  1.0  -- tirtho / sintits
 
 
-baseboard - Alias not found.  -- noyon gang
+baseboard - Alias not found.    --- noyon gang
 
 
 
