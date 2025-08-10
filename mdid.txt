@@ -8,8 +8,7 @@ Micro-Star International Co., Ltd.  PRO B650M-P (MS-7E27)  07E2710_O41E772006  1
 
 Micro-Star International Co., Ltd.  B450M-A PRO MAX (MS-7C52)  07C5213_NC1A164534  1.0  -- tirtho / sintits
 
-
-baseboard - Alias not found.    --- noyon gang
+Gigabyte Technology Co., Ltd.  B85M-D2V  To be filled by O.E.M.  x.x    --- noyon gang
 
 
 
