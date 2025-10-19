@@ -2,7 +2,7 @@ its Free = "No";
 Free User = "KS1";
 Free Pass = "1";
 
-its2 Free = "Yes1";
+its2 Free = "Yes1n";
 Free User1 = "FODC";
 Free Pass2 = "3K";
 
@@ -22,5 +22,3 @@ HP            8079     PFKZU00WB65JPV  KBC Version 85.79**     --- sirat
 
 
 
-Manufacturer  Product  SerialNumber              Version
-Dell Inc.     0GHXK4   /8XPJ042/CN129667C20196/  X07
