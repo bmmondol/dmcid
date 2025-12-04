@@ -1,0 +1,35 @@
+name: FB Auto Poster
+
+on:
+  workflow_dispatch:
+    inputs:
+      group_link:
+        description: "Facebook Group Link"
+        required: true
+        type: string
+      post_text:
+        description: "Text to Post"
+        required: true
+        type: string
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y python3 python3-pip
+          pip3 install selenium webdriver-manager
+
+      - name: Run FB Poster
+        env:
+          FB_COOKIE: ${{ secrets.FB_COOKIE }}
+          GROUP_LINK: ${{ github.event.inputs.group_link }}
+          POST_TEXT: ${{ github.event.inputs.post_text }}
+        run: |
+          python3 fb_post.py
