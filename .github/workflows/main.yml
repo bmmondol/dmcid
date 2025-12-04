@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       group_link:
-        description: "https://www.facebook.com/groups/401579737130755"
+        description: "Facebook Group Link"
         required: true
         type: string
       post_text:
-        description: "Hi Guys I Am Here And Online Now"
+        description: "Text to Post"
         required: true
         type: string
 
